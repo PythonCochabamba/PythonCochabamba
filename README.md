@@ -17,3 +17,16 @@ Ser la comunidad de referencia en Cochabamba para los entusiastas, profesionales
 - Innovación: Fomentamos la creatividad y la innovación en el uso de Python. Buscamos explorar nuevas tecnologías, herramientas y aplicaciones para impulsar el desarrollo de soluciones innovadoras.
 - Comunidad: Creamos un ambiente de comunidad en el que nuestros miembros se sientan apoyados, motivados y conectados entre sí. Promovemos la generosidad, el compañerismo y la colaboración entre nuestros miembros.
 - Ética y responsabilidad: Nos comprometemos a actuar de manera ética y responsable en todas nuestras actividades. Valoramos la integridad, la transparencia y el respeto hacia los demás.
+
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+```
+
+</p>
+</details>
