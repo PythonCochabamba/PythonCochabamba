@@ -19,7 +19,7 @@ Ser la comunidad de referencia en Cochabamba para los entusiastas, profesionales
 - Ética y responsabilidad: Nos comprometemos a actuar de manera ética y responsable en todas nuestras actividades. Valoramos la integridad, la transparencia y el respeto hacia los demás.
 
 
-<details><summary>**Código deConducta**</summary>
+<details><h1>Código deConducta</h1>
 <p>
 
 El código de conducta de la comunidad Python Cochabamba está basado en los estatutos de la Python Software Foundation, que establece un conjunto de normas y principios que deben ser seguidos por todos los miembros de la comunidad para garantizar un ambiente seguro, inclusivo y respetuoso para todos. La comunidad Python Cochabamba se compromete a seguir estos estándares y tomar medidas en caso de que se presenten conductas inapropiadas.
@@ -82,7 +82,7 @@ Todos los derechos de propiedad intelectual relacionados con la imagen de la com
 </details>
 
 
-<details><summary>**ESTATUTO PARA ELECCIÓN DE LÍDERES**</summary>
+<details><h1>ESTATUTO PARA ELECCIÓN DE LÍDERES</h1>
 <p>
 
 **ESTATUTO PARA ELECCIÓN DE LÍDERES DE LA COMUNIDAD PYTHON COCHABAMBA**
