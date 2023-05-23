@@ -286,3 +286,76 @@ Sanciones para los líderes de la comunidad:
 
 </p>
 </details>
+
+
+<details><summary>Procedimientos</summary>
+<p>
+
+# Procedimientos de la comunidad Python Cochabamba
+
+## Procedimiento para la participación en eventos y actividades:
+
+- Información del evento: Los miembros de la comunidad recibirán información detallada sobre los eventos y actividades planificadas. Esto incluirá la fecha, hora, lugar, temática y requisitos específicos para participar.
+- Inscripción: Para participar en un evento o actividad, los miembros deberán completar un formulario de inscripción proporcionado por la comunidad. En este formulario se solicitará información personal relevante y se podrán especificar intereses o habilidades específicas relacionadas con el evento.
+- Confirmación de participación: Una vez que se haya completado la inscripción, se enviará una confirmación de participación a los miembros seleccionados. En caso de que el evento tenga un cupo limitado, se dará prioridad a los miembros según el orden de inscripción o según criterios establecidos previamente.
+- Preparación previa: Antes del evento, se proporcionará a los participantes información adicional, como materiales de lectura, requisitos previos o tareas preparatorias, según sea necesario. Se animará a los participantes a familiarizarse con el tema o a preparar cualquier material o presentación requerida.
+- Asistencia puntual: Se requerirá que los participantes lleguen al evento puntualmente y estén listos para participar. Se les recomendará planificar su tiempo de antemano para evitar retrasos y asegurar una participación activa.
+- Participación activa: Durante el evento, se espera que los participantes se involucren de manera activa y respetuosa. Se les alentará a hacer preguntas, compartir ideas y contribuir al enriquecimiento de la experiencia colectiva.
+- Retroalimentación y evaluación: Al finalizar el evento, se solicitará a los participantes que proporcionen retroalimentación sobre su experiencia. Esto ayudará a mejorar futuros eventos y actividades, así como a identificar áreas de fortaleza y oportunidades de mejora.
+- Seguimiento y continuidad: Después del evento, se promoverá el seguimiento y la continuidad de las temáticas abordadas. Se pueden organizar sesiones de seguimiento, grupos de estudio o actividades adicionales para mantener el interés y el aprendizaje continuo.
+
+## Procedimiento para la presentación de propuestas de proyectos:
+
+- Convocatoria de propuestas: La comunidad anunciará una convocatoria abierta para la presentación de propuestas de proyectos. Se proporcionará información detallada sobre los requisitos, plazos y criterios de evaluación para las propuestas.
+- Preparación de la propuesta: Los interesados en presentar una propuesta de proyecto deberán preparar un documento que describa el objetivo, alcance, metodología, recursos necesarios y plan de implementación del proyecto. También se podrán incluir detalles sobre el impacto esperado, los beneficios para la comunidad y cualquier otra información relevante.
+- Presentación de la propuesta: Las propuestas se enviarán según las indicaciones proporcionadas en la convocatoria. Esto puede incluir el envío por correo electrónico, el uso de un formulario en línea u otro método especificado.
+- Evaluación de las propuestas: Un comité designado por la comunidad revisará y evaluará todas las propuestas recibidas. Las propuestas se evaluarán en base a los criterios establecidos previamente, como la viabilidad, la relevancia, la innovación y el impacto potencial.
+- Comunicación de resultados: Una vez completada la evaluación, se comunicarán los resultados a los participantes. Esto incluirá información sobre las propuestas seleccionadas y los siguientes pasos a seguir.
+- Implementación del proyecto: En caso de que una propuesta sea seleccionada, se establecerán los detalles adicionales con el equipo responsable. Se definirán los plazos, recursos necesarios y cualquier otra consideración relevante para la implementación del proyecto.
+- Seguimiento y reporte: Durante la implementación del proyecto, se solicitará a los responsables que realicen un seguimiento regular y proporcionen informes de avance. Esto permitirá monitorear el progreso del proyecto y tomar las medidas necesarias en caso de desviaciones o dificultades.
+- Evaluación y cierre del proyecto: Una vez finalizada la implementación, se realizará una evaluación final del proyecto. Se analizarán los resultados, lecciones aprendidas y posibles mejoras para futuros proyectos. Se brindará reconocimiento y agradecimiento a los responsables por su contribución.
+
+## Procedimiento para la resolución de conflictos:
+
+- Identificación del conflicto: Reconocer e identificar la existencia de un conflicto dentro de la comunidad Python Cochabamba. Esto puede incluir diferencias de opinión, desacuerdos, malentendidos o cualquier situación que genere tensión o discordia entre los miembros.
+- Comunicación abierta: Fomentar la comunicación abierta y respetuosa entre las partes involucradas en el conflicto. Animar a los miembros a expresar sus preocupaciones, opiniones y puntos de vista de manera constructiva y sin agresiones.
+- Escucha activa: Escuchar activamente a todas las partes involucradas en el conflicto. Permitir que cada persona exprese sus sentimientos, emociones y perspectivas sin interrupciones, y mostrar empatía hacia sus preocupaciones.
+- Medición del impacto: Evaluar el impacto del conflicto en la comunidad y en las relaciones entre los miembros. Identificar las posibles consecuencias negativas y la importancia de buscar una solución para restablecer la armonía y el buen funcionamiento de la comunidad.
+- Análisis de opciones: Analizar diferentes opciones y enfoques para resolver el conflicto. Considerar soluciones que promuevan el diálogo, la negociación, la mediación u otros métodos de resolución de conflictos, según la naturaleza y la gravedad del conflicto.
+- Acuerdo y compromiso: Trabajar en conjunto para llegar a un acuerdo y establecer compromisos mutuos. Buscar soluciones que sean aceptables y beneficiosas para todas las partes involucradas, y que promuevan el bienestar y la cohesión de la comunidad.
+- Implementación y seguimiento: Poner en práctica las soluciones acordadas y realizar un seguimiento para asegurarse de que se cumplan los compromisos establecidos. Monitorear el progreso y evaluar la efectividad de las acciones tomadas para resolver el conflicto.
+- Aprendizaje y crecimiento: Aprender de los conflictos pasados y utilizarlos como oportunidades de crecimiento y mejora. Identificar lecciones aprendidas y desarrollar estrategias para prevenir conflictos futuros, fomentando una cultura de respeto, colaboración y resolución pacífica de diferencias.
+
+## Procedimiento para la presentación de charlas y talleres:
+
+- Solicitud de presentación: Los miembros interesados en presentar una charla o taller en la comunidad Python Cochabamba deben enviar una solicitud formal al equipo organizador. La solicitud debe incluir detalles sobre el tema propuesto, los objetivos de la presentación y cualquier requisito técnico o logístico.
+- Evaluación de la propuesta: El equipo organizador revisará todas las solicitudes recibidas y evaluará la relevancia, calidad y pertinencia de cada propuesta. Se considerarán aspectos como la experiencia del ponente, la originalidad del tema y la adecuación a los intereses y necesidades de la comunidad.
+- Confirmación y programación: Una vez evaluadas todas las propuestas, el equipo organizador se pondrá en contacto con los ponentes seleccionados para confirmar su participación. Se acordarán las fechas, horarios y requisitos adicionales para la presentación.
+- Preparación de la presentación: Los ponentes deberán preparar su presentación de acuerdo con los lineamientos y requisitos establecidos por la comunidad Python Cochabamba. Esto incluye el diseño de diapositivas, la preparación del contenido y la consideración de cualquier material adicional necesario.
+- Ensayo y retroalimentación: Se recomienda que los ponentes realicen ensayos de su presentación antes del evento y busquen retroalimentación de otros miembros de la comunidad. Esto permitirá refinar y mejorar la calidad de la presentación.
+- Presentación en el evento: En el día del evento, los ponentes deberán estar presentes con anticipación y coordinar con el equipo organizador para asegurarse de que todos los aspectos técnicos estén en orden. Se les asignará un tiempo específico para su presentación, y se espera que cumplan con el horario establecido.
+- Evaluación y retroalimentación: Después de la presentación, se recopilarán comentarios y evaluaciones de los asistentes para evaluar la calidad y el impacto de la charla o taller. Esta retroalimentación será utilizada para mejorar futuras presentaciones y optimizar la experiencia de los participantes.
+
+## Procedimiento para la publicación de contenido en el blog y redes sociales:
+
+- Solicitud de publicación: Los miembros interesados en contribuir con contenido para el blog y las redes sociales de la comunidad Python Cochabamba deben enviar una solicitud de publicación al equipo encargado. Esta solicitud puede ser enviada por correo electrónico o a través de una plataforma designada para tal fin.
+- Revisión de la solicitud: El equipo encargado de la publicación revisará todas las solicitudes recibidas y evaluará la pertinencia y calidad del contenido propuesto. Se considerarán aspectos como la relevancia del tema, originalidad del enfoque y adecuación al público objetivo.
+- Aprobación y programación: Una vez revisadas las solicitudes, el equipo de publicación se comunicará con los solicitantes para informarles sobre la aprobación de su contenido. Se acordarán las fechas de publicación y se les brindará las instrucciones necesarias para preparar el contenido de acuerdo con los lineamientos establecidos.
+- Preparación del contenido: Los solicitantes deberán preparar el contenido acorde a las pautas proporcionadas por el equipo de publicación. Esto puede incluir la redacción de artículos, creación de gráficos o cualquier otro formato específico requerido.
+- Revisión y edición: Antes de la publicación, el contenido será revisado y editado por el equipo de publicación para asegurar su calidad, precisión y coherencia con la imagen y voz de la comunidad Python Cochabamba.
+- Programación de publicación: Una vez que el contenido haya sido revisado y editado, se programará su publicación en el blog y/o en las redes sociales de la comunidad Python Cochabamba. Esto se realizará de acuerdo con el calendario establecido y las estrategias de difusión definidas.
+- Promoción y difusión: Después de la publicación, se promocionará y difundirá el contenido a través de las redes sociales y otros canales de comunicación de la comunidad. Se alentará a los miembros a compartir y comentar el contenido para ampliar su alcance y fomentar la interacción.
+
+## Procedimiento para la organización de eventos y meetups:
+
+- Propuesta de evento: Cualquier miembro de la comunidad Python Cochabamba puede proponer la organización de un evento o meetup. Deben enviar una propuesta detallada al equipo encargado de eventos, que incluya el tema, objetivo, formato, fecha tentativa, duración estimada y cualquier otro detalle relevante.
+- Evaluación de la propuesta: El equipo de eventos revisará la propuesta y evaluará su viabilidad, relevancia y alineación con los objetivos de la comunidad. También se considerarán aspectos logísticos como la disponibilidad de espacios, recursos necesarios y posibles patrocinadores.
+- Aprobación y planificación: Si la propuesta es aprobada, se asignará un responsable o equipo de organización para llevar adelante el evento. Se definirán fechas, horarios, ubicación y se elaborará un plan detallado que incluya actividades, charlas, talleres u otros componentes del evento.
+- Convocatoria y difusión: Una vez planificado, se realizará la difusión del evento a través de los canales de comunicación de la comunidad, como el sitio web, redes sociales y listas de correo. Se alentará a los miembros y al público interesado a registrarse o confirmar su asistencia.
+- Organización y logística: El equipo de organización se encargará de todos los aspectos logísticos del evento, como la reserva de espacios, coordinación de ponentes, preparación de materiales, control de tiempos y cualquier otro detalle necesario para garantizar el buen desarrollo del evento.
+
+- Ejecución del evento: En el día del evento, el equipo de organización se asegurará de que todo esté listo y se encargará de la recepción de los asistentes, la coordinación de las actividades planificadas y la resolución de cualquier imprevisto que pueda surgir.
+- Evaluación y retroalimentación: Después del evento, se recopilarán comentarios y retroalimentación de los asistentes y se evaluará el éxito del evento en función de los objetivos establecidos. Esta información será utilizada para mejorar futuros eventos y meetups.
+
+</p>
+</details>
